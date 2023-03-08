@@ -1,0 +1,6 @@
+1.Access Tier:
+- Hot ve Cold Storage account seviyesinde, Archive Blob seviyesinde uygulanir.
+- Cold min 30 gun, Archive min 180 olur.
+- Cold, infrequently; Archive rarely accessed.
+
+
